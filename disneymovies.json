@@ -10,10 +10,15 @@
         "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/DALL%C2%B7E%202025-02-03%2011.51.12%20-%20A%20young%20lion%20prince%2C%20with%20a%20golden%20mane%2C%20flees%20from%20a%20grand%2C%20sunlit%20kingdom%20surrounded%20by%20lush%20green%20fields%20and%20a%20vibrant%20blue%20sky.%20The%20young%20lion%20is%20.webp",
         "genre": "Animation",
         "keywords": ["lion", "adventure", "family"],
-        "director": {
-          "id": 201,
-          "name": "Roger Allers"
-        }
+        "director":  {
+      "id": 201,
+      "name": "Roger Allers",
+      "age": 73,
+      "isActive": true,
+      "birthDate": "1950-06-29",
+      "profileImage": "https://example.com/rogers.jpg",
+      "nationality": "American"
+    }
       },
       {
         "id": 2,
