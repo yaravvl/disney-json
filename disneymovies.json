@@ -1,4 +1,4 @@
-{
+
     [
       {
         "id": 1,
@@ -11,14 +11,14 @@
         "genre": "Animation",
         "keywords": ["lion", "adventure", "family"],
         "director":  {
-      "id": 201,
-      "name": "Roger Allers",
-      "age": 73,
-      "isActive": true,
-      "birthDate": "1950-06-29",
-      "profileImage": "https://example.com/rogers.jpg",
-      "nationality": "American"
-    }
+          "id": 201,
+          "name": "Roger Allers",
+          "age": 73,
+          "isActive": true,
+          "birthDate": "1950-06-29",
+          "profileImage": "https://example.com/rogers.jpg",
+          "nationality": "American"
+        }
       },
       {
         "id": 2,
@@ -38,7 +38,7 @@
           "birthDate": "1971-10-22",
           "profileImage": "https://example.com/jenniferlee.jpg",
           "nationality": "American"
-    }
+        }
       },
       {
         "id": 3,
@@ -92,7 +92,12 @@
         "keywords": ["warrior", "bravery", "disguise"],
         "director": {
           "id": 205,
-          "name": "Tony Bancroft"
+          "name": "Tony Bancroft",
+          "age": 53,
+          "isActive": true,
+          "birthDate": "1970-07-31",
+          "profileImage": "https://example.com/tonybancroft.jpg",
+          "nationality": "American"
         }
       },
       {
@@ -107,7 +112,12 @@
         "keywords": ["princess", "adventure", "tower"],
         "director": {
           "id": 206,
-          "name": "Nathan Greno"
+          "name": "Nathan Greno",
+          "age": 48,
+          "isActive": true,
+          "birthDate": "1975-03-22",
+          "profileImage": "https://example.com/nathangreno.jpg",
+          "nationality": "American"
         }
       },
       {
@@ -121,8 +131,13 @@
         "genre": "Animation",
         "keywords": ["hero", "gods", "strength"],
         "director": {
-          "id": 207,
-          "name": "Ron Clements"
+          "id": 203,
+          "name": "Ron Clements",
+          "age": 70,
+          "isActive": true,
+          "birthDate": "1953-04-25",
+          "profileImage": "https://example.com/ronclements.jpg",
+          "nationality": "American"
         }
       },
       {
@@ -137,7 +152,12 @@
         "keywords": ["princess", "magic", "transformation"],
         "director": {
           "id": 208,
-          "name": "John Musker"
+          "name": "John Musker",
+          "age": 70,
+          "isActive": true,
+          "birthDate": "1953-11-08",
+          "profileImage": "https://example.com/johnmusker.jpg",
+          "nationality": "American"
         }
       },
       {
@@ -152,7 +172,12 @@
         "keywords": ["video game", "arcade", "hero"],
         "director": {
           "id": 209,
-          "name": "Rich Moore"
+          "name": "Rich Moore",
+          "age": 60,
+          "isActive": true,
+          "birthDate": "1963-05-10",
+          "profileImage": "https://example.com/richmoore.jpg",
+          "nationality": "American"
         }
       },
       {
@@ -167,8 +192,13 @@
         "keywords": ["robot", "teamwork", "superheroes"],
         "director": {
           "id": 210,
-          "name": "Don Hall"
+          "name": "Don Hall",
+          "age": 54,
+          "isActive": true,
+          "birthDate": "1969-03-08",
+          "profileImage": "https://example.com/donhall.jpg",
+          "nationality": "American"
         }
       }
     ]
-}
+

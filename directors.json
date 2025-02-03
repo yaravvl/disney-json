@@ -1,4 +1,4 @@
-{
+
 [
     {
       "id": 201,
@@ -55,15 +55,6 @@
       "nationality": "American"
     },
     {
-        "id": 207,
-        "name": "Ron Clements",
-        "age": 70,
-        "isActive": true,
-        "birthDate": "1953-04-25",
-        "profileImage": "https://example.com/ronclements.jpg",
-        "nationality": "American"
-      },
-      {
         "id": 208,
         "name": "John Musker",
         "age": 70,
@@ -91,4 +82,4 @@
         "nationality": "American"
       }
   ]
-}
+
