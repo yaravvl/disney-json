@@ -51,7 +51,7 @@
       "age": 48,
       "isActive": true,
       "birthDate": "1975-03-22",
-      "profileImage": "https://example.com/nathangreno.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id6.webp",
       "nationality": "American"
     },
     {
@@ -60,7 +60,7 @@
         "age": 70,
         "isActive": true,
         "birthDate": "1953-11-08",
-        "profileImage": "https://example.com/johnmusker.jpg",
+        "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id8.jpg",
         "nationality": "American"
       },
       {
@@ -69,7 +69,7 @@
         "age": 60,
         "isActive": true,
         "birthDate": "1963-05-10",
-        "profileImage": "https://example.com/richmoore.jpg",
+        "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id9.jpg",
         "nationality": "American"
       },
       {
@@ -78,7 +78,7 @@
         "age": 54,
         "isActive": true,
         "birthDate": "1969-03-08",
-        "profileImage": "https://example.com/donhall.jpg",
+        "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id10.webp",
         "nationality": "American"
       }
   ]
