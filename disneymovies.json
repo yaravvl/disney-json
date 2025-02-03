@@ -32,8 +32,13 @@
         "keywords": ["snow", "sisterhood", "magic"],
         "director": {
           "id": 202,
-          "name": "Jennifer Lee"
-        }
+          "name": "Jennifer Lee",
+          "age": 52,
+          "isActive": true,
+          "birthDate": "1971-10-22",
+          "profileImage": "https://example.com/jenniferlee.jpg",
+          "nationality": "American"
+    }
       },
       {
         "id": 3,
