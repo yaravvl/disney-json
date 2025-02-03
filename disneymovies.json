@@ -52,7 +52,12 @@
         "keywords": ["magic", "adventure", "genie"],
         "director": {
           "id": 203,
-          "name": "Ron Clements"
+          "name": "Ron Clements",
+          "age": 70,
+          "isActive": true,
+          "birthDate": "1953-04-25",
+          "profileImage": "https://example.com/ronclements.jpg",
+          "nationality": "American"
         }
       },
       {
