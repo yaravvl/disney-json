@@ -1,0 +1,154 @@
+{
+    "films": [
+      {
+        "id": 1,
+        "title": "The Lion King",
+        "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+        "releaseYear": 1994,
+        "isBlockbuster": true,
+        "releaseDate": "1994-06-15",
+        "posterUrl": "https://example.com/lionking.jpg",
+        "genre": "Animation",
+        "keywords": ["lion", "adventure", "family"],
+        "director": {
+          "id": 201,
+          "name": "Roger Allers"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Frozen",
+        "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice, she flees, leaving her sister Anna to bring her back.",
+        "releaseYear": 2013,
+        "isBlockbuster": true,
+        "releaseDate": "2013-11-27",
+        "posterUrl": "https://example.com/frozen.jpg",
+        "genre": "Animation",
+        "keywords": ["snow", "sisterhood", "magic"],
+        "director": {
+          "id": 202,
+          "name": "Jennifer Lee"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Aladdin",
+        "description": "A street rat discovers a magical lamp and a genie who grants him three wishes.",
+        "releaseYear": 1992,
+        "isBlockbuster": true,
+        "releaseDate": "1992-11-25",
+        "posterUrl": "https://example.com/aladdin.jpg",
+        "genre": "Animation",
+        "keywords": ["magic", "adventure", "genie"],
+        "director": {
+          "id": 203,
+          "name": "Ron Clements"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Beauty and the Beast",
+        "description": "A young woman falls in love with a cursed prince.",
+        "releaseYear": 1991,
+        "isBlockbuster": true,
+        "releaseDate": "1991-11-13",
+        "posterUrl": "https://example.com/beautybeast.jpg",
+        "genre": "Animation",
+        "keywords": ["love", "fantasy", "castle"],
+        "director": {
+          "id": 204,
+          "name": "Gary Trousdale"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Mulan",
+        "description": "A young woman disguises herself as a man to fight in the army.",
+        "releaseYear": 1998,
+        "isBlockbuster": true,
+        "releaseDate": "1998-06-19",
+        "posterUrl": "https://example.com/mulan.jpg",
+        "genre": "Animation",
+        "keywords": ["warrior", "bravery", "disguise"],
+        "director": {
+          "id": 205,
+          "name": "Tony Bancroft"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Tangled",
+        "description": "Rapunzel escapes her tower with the help of a thief.",
+        "releaseYear": 2010,
+        "isBlockbuster": true,
+        "releaseDate": "2010-11-24",
+        "posterUrl": "https://example.com/tangled.jpg",
+        "genre": "Animation",
+        "keywords": ["princess", "adventure", "tower"],
+        "director": {
+          "id": 206,
+          "name": "Nathan Greno"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Hercules",
+        "description": "The son of Zeus is stripped of his immortality as an infant and must become a true hero to reclaim it.",
+        "releaseYear": 1997,
+        "isBlockbuster": true,
+        "releaseDate": "1997-06-27",
+        "posterUrl": "https://example.com/hercules.jpg",
+        "genre": "Animation",
+        "keywords": ["hero", "gods", "strength"],
+        "director": {
+          "id": 207,
+          "name": "Ron Clements"
+        }
+      },
+      {
+        "id": 8,
+        "title": "The Princess and the Frog",
+        "description": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human.",
+        "releaseYear": 2009,
+        "isBlockbuster": true,
+        "releaseDate": "2009-12-11",
+        "posterUrl": "https://example.com/princessfrog.jpg",
+        "genre": "Animation",
+        "keywords": ["princess", "magic", "transformation"],
+        "director": {
+          "id": 208,
+          "name": "John Musker"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Wreck-It Ralph",
+        "description": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the arcade.",
+        "releaseYear": 2012,
+        "isBlockbuster": true,
+        "releaseDate": "2012-11-02",
+        "posterUrl": "https://example.com/wreckitralph.jpg",
+        "genre": "Animation",
+        "keywords": ["video game", "arcade", "hero"],
+        "director": {
+          "id": 209,
+          "name": "Rich Moore"
+        }
+      },
+      {
+        "id": 10,
+        "title": "Big Hero 6",
+        "description": "A special bond develops between a boy and a plus-sized inflatable robot, as they team up to fight against evil.",
+        "releaseYear": 2014,
+        "isBlockbuster": true,
+        "releaseDate": "2014-11-07",
+        "posterUrl": "https://example.com/bighero6.jpg",
+        "genre": "Animation",
+        "keywords": ["robot", "teamwork", "superheroes"],
+        "director": {
+          "id": 210,
+          "name": "Don Hall"
+        }
+      }
+    ]
+}
