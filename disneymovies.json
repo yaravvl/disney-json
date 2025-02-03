@@ -72,7 +72,12 @@
         "keywords": ["love", "fantasy", "castle"],
         "director": {
           "id": 204,
-          "name": "Gary Trousdale"
+          "name": "Gary Trousdale",
+          "age": 63,
+          "isActive": true,
+          "birthDate": "1960-06-08",
+          "profileImage": "https://example.com/garytrousdale.jpg",
+          "nationality": "American"
         }
       },
       {
