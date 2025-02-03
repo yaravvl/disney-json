@@ -7,7 +7,7 @@
         "releaseYear": 1994,
         "isBlockbuster": true,
         "releaseDate": "1994-06-15",
-        "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/DALL%C2%B7E%202025-02-03%2011.51.12%20-%20A%20young%20lion%20prince%2C%20with%20a%20golden%20mane%2C%20flees%20from%20a%20grand%2C%20sunlit%20kingdom%20surrounded%20by%20lush%20green%20fields%20and%20a%20vibrant%20blue%20sky.%20The%20young%20lion%20is%20.webp",
+        "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id1.webp",
         "genre": "Animation",
         "keywords": ["lion", "adventure", "family"],
         "director":  {
@@ -27,7 +27,7 @@
         "releaseYear": 2013,
         "isBlockbuster": true,
         "releaseDate": "2013-11-27",
-        "posterUrl": "https://example.com/frozen.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id2.png",
         "genre": "Animation",
         "keywords": ["snow", "sisterhood", "magic"],
         "director": {
@@ -47,7 +47,7 @@
         "releaseYear": 1992,
         "isBlockbuster": true,
         "releaseDate": "1992-11-25",
-        "posterUrl": "https://example.com/aladdin.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id3.png",
         "genre": "Animation",
         "keywords": ["magic", "adventure", "genie"],
         "director": {
@@ -67,7 +67,7 @@
         "releaseYear": 1991,
         "isBlockbuster": true,
         "releaseDate": "1991-11-13",
-        "posterUrl": "https://example.com/beautybeast.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id4.png",
         "genre": "Animation",
         "keywords": ["love", "fantasy", "castle"],
         "director": {
@@ -87,7 +87,7 @@
         "releaseYear": 1998,
         "isBlockbuster": true,
         "releaseDate": "1998-06-19",
-        "posterUrl": "https://example.com/mulan.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id5.jpg",
         "genre": "Animation",
         "keywords": ["warrior", "bravery", "disguise"],
         "director": {
@@ -107,7 +107,7 @@
         "releaseYear": 2010,
         "isBlockbuster": true,
         "releaseDate": "2010-11-24",
-        "posterUrl": "https://example.com/tangled.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id6.jpg",
         "genre": "Animation",
         "keywords": ["princess", "adventure", "tower"],
         "director": {
@@ -116,7 +116,7 @@
           "age": 48,
           "isActive": true,
           "birthDate": "1975-03-22",
-          "profileImage": "https://example.com/nathangreno.jpg",
+          "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id6.webp",
           "nationality": "American"
         }
       },
@@ -127,7 +127,7 @@
         "releaseYear": 1997,
         "isBlockbuster": true,
         "releaseDate": "1997-06-27",
-        "posterUrl": "https://example.com/hercules.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id7.jpg",
         "genre": "Animation",
         "keywords": ["hero", "gods", "strength"],
         "director": {
@@ -147,7 +147,7 @@
         "releaseYear": 2009,
         "isBlockbuster": true,
         "releaseDate": "2009-12-11",
-        "posterUrl": "https://example.com/princessfrog.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id8.jpg",
         "genre": "Animation",
         "keywords": ["princess", "magic", "transformation"],
         "director": {
@@ -156,7 +156,7 @@
           "age": 70,
           "isActive": true,
           "birthDate": "1953-11-08",
-          "profileImage": "https://example.com/johnmusker.jpg",
+          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id8.jpg",
           "nationality": "American"
         }
       },
@@ -167,7 +167,7 @@
         "releaseYear": 2012,
         "isBlockbuster": true,
         "releaseDate": "2012-11-02",
-        "posterUrl": "https://example.com/wreckitralph.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id9.jpg",
         "genre": "Animation",
         "keywords": ["video game", "arcade", "hero"],
         "director": {
@@ -176,7 +176,7 @@
           "age": 60,
           "isActive": true,
           "birthDate": "1963-05-10",
-          "profileImage": "https://example.com/richmoore.jpg",
+          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id9.jpg",
           "nationality": "American"
         }
       },
@@ -187,7 +187,7 @@
         "releaseYear": 2014,
         "isBlockbuster": true,
         "releaseDate": "2014-11-07",
-        "posterUrl": "https://example.com/bighero6.jpg",
+        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id10.jpg",
         "genre": "Animation",
         "keywords": ["robot", "teamwork", "superheroes"],
         "director": {
@@ -196,7 +196,7 @@
           "age": 54,
           "isActive": true,
           "birthDate": "1969-03-08",
-          "profileImage": "https://example.com/donhall.jpg",
+          "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id10.webp",
           "nationality": "American"
         }
       }
