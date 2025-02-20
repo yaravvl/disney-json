@@ -15,7 +15,7 @@
       "age": 73,
       "isActive": true,
       "birthDate": "1950-06-29",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id1.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id1.jpg",
       "nationality": "American"
     }
   },
@@ -26,7 +26,7 @@
     "releaseYear": 2003,
     "isBlockbuster": true,
     "releaseDate": "2003-07-09",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id11.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id3.webp",
     "genre": "Adventure",
     "keywords": ["pirates", "treasure", "adventure"],
     "director": {
@@ -35,7 +35,7 @@
       "age": 60,
       "isActive": true,
       "birthDate": "1953-03-16",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id11.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id2.JPG",
       "nationality": "American"
     }
   },
@@ -46,7 +46,7 @@
     "releaseYear": 2004,
     "isBlockbuster": true,
     "releaseDate": "2004-11-05",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id12.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id2.webp",
     "genre": "Action",
     "keywords": ["superheroes", "family", "action"],
     "director": {
@@ -55,7 +55,7 @@
       "age": 66,
       "isActive": true,
       "birthDate": "1957-09-24",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id12.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id3.jpg",
       "nationality": "American"
     }
   },
@@ -66,7 +66,7 @@
     "releaseYear": 1991,
     "isBlockbuster": true,
     "releaseDate": "1991-11-13",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id4.png",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id4.png",
     "genre": "Animation",
     "keywords": ["love", "fantasy", "castle"],
     "director": {
@@ -75,7 +75,7 @@
       "age": 63,
       "isActive": true,
       "birthDate": "1960-06-08",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id4.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id4.jpg",
       "nationality": "American"
     }
   },
@@ -86,7 +86,7 @@
     "releaseYear": 1998,
     "isBlockbuster": true,
     "releaseDate": "1998-06-19",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id5.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id5.jpg",
     "genre": "Animation",
     "keywords": ["warrior", "bravery", "disguise"],
     "director": {
@@ -95,7 +95,7 @@
       "age": 53,
       "isActive": true,
       "birthDate": "1970-07-31",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id5.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id5.jpg",
       "nationality": "American"
     }
   },
@@ -106,7 +106,7 @@
     "releaseYear": 2010,
     "isBlockbuster": true,
     "releaseDate": "2010-11-24",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id6.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id6.jpg",
     "genre": "Animation",
     "keywords": ["princess", "adventure", "tower"],
     "director": {
@@ -126,7 +126,7 @@
     "releaseYear": 1997,
     "isBlockbuster": true,
     "releaseDate": "1997-06-27",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id7.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id7.jpg",
     "genre": "Animation",
     "keywords": ["hero", "gods", "strength"],
     "director": {
@@ -146,7 +146,7 @@
     "releaseYear": 2009,
     "isBlockbuster": true,
     "releaseDate": "2009-12-11",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id8.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id8.jpg",
     "genre": "Animation",
     "keywords": ["princess", "magic", "transformation"],
     "director": {
@@ -155,7 +155,7 @@
       "age": 70,
       "isActive": true,
       "birthDate": "1953-11-08",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id8.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id8.jpg",
       "nationality": "American"
     }
   },
@@ -166,7 +166,7 @@
     "releaseYear": 2012,
     "isBlockbuster": true,
     "releaseDate": "2012-11-02",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id9.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id9.jpg",
     "genre": "Animation",
     "keywords": ["video game", "arcade", "hero"],
     "director": {
@@ -175,7 +175,7 @@
       "age": 60,
       "isActive": true,
       "birthDate": "1963-05-10",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id9.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id9.jpg",
       "nationality": "American"
     }
   },
@@ -186,7 +186,7 @@
     "releaseYear": 2014,
     "isBlockbuster": true,
     "releaseDate": "2014-11-07",
-    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id10.jpg",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id10.jpg",
     "genre": "Animation",
     "keywords": ["robot", "teamwork", "superheroes"],
     "director": {
