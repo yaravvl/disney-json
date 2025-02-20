@@ -1,204 +1,202 @@
-
-    [
-      {
-        "id": 1,
-        "title": "The Lion King",
-        "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
-        "releaseYear": 1994,
-        "isBlockbuster": true,
-        "releaseDate": "1994-06-15",
-        "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id1.webp",
-        "genre": "Animation",
-        "keywords": ["lion", "adventure", "family"],
-        "director":  {
-          "id": 201,
-          "name": "Roger Allers",
-          "age": 73,
-          "isActive": true,
-          "birthDate": "1950-06-29",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id1.jpg",
-          "nationality": "American"
-        }
-      },
-     {
-        "id": 2,
-        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-        "description": "Captain Jack Sparrow teams up with a blacksmith to rescue the governor's daughter and stop a cursed pirate crew.",
-        "releaseYear": 2003,
-        "isBlockbuster": true,
-        "releaseDate": "2003-07-09",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id11.jpg",
-        "genre": "Adventure",
-        "keywords": ["pirates", "treasure","adventure"],
-        "director": {
-          "id": 202,
-          "name": "Gore Verbinski",
-          "age": 60,
-          "isActive": true,
-          "birthDate": "1953-03-16",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id11.jpg",
-          "nationality": "American"
+[
+  {
+    "id": 1,
+    "title": "The Lion King",
+    "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+    "releaseYear": 1994,
+    "isBlockbuster": true,
+    "releaseDate": "1994-06-15",
+    "posterUrl": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id1.webp",
+    "genre": "Animation",
+    "keywords": ["lion", "adventure", "family"],
+    "director": {
+      "id": 201,
+      "name": "Roger Allers",
+      "age": 73,
+      "isActive": true,
+      "birthDate": "1950-06-29",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id1.jpg",
+      "nationality": "American"
     }
-      },
-      {
-        "id": 3,
-        "title": "The Incredibles",
-        "description": "A family of undercover superheroes must come out of retirement to save the world.",
-        "releaseYear": 2004,
-        "isBlockbuster": true,
-        "releaseDate": "2004-11-05",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id12.jpg",
-        "genre": "Action",
-        "keywords": [ "superheroes", "family", "action"],
-        "director": {
-          "id": 203,
-          "name": "Brad Bird",
-          "age": 66,
-          "isActive": true,
-          "birthDate": "1957-09-24",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id12.jpg",
-          "nationality": "American"
+  },
+  {
+    "id": 2,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "description": "Captain Jack Sparrow teams up with a blacksmith to rescue the governor's daughter and stop a cursed pirate crew.",
+    "releaseYear": 2003,
+    "isBlockbuster": true,
+    "releaseDate": "2003-07-09",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id11.jpg",
+    "genre": "Adventure",
+    "keywords": ["pirates", "treasure", "adventure"],
+    "director": {
+      "id": 202,
+      "name": "Gore Verbinski",
+      "age": 60,
+      "isActive": true,
+      "birthDate": "1953-03-16",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id11.jpg",
+      "nationality": "American"
     }
-      },
-      {
-        "id": 4,
-        "title": "Beauty and the Beast",
-        "description": "A young woman falls in love with a cursed prince.",
-        "releaseYear": 1991,
-        "isBlockbuster": true,
-        "releaseDate": "1991-11-13",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id4.png",
-        "genre": "Animation",
-        "keywords": ["love", "fantasy", "castle"],
-        "director": {
-          "id": 204,
-          "name": "Gary Trousdale",
-          "age": 63,
-          "isActive": true,
-          "birthDate": "1960-06-08",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id4.jpg",
-          "nationality": "American"
-        }
-      },
-      {
-        "id": 5,
-        "title": "Mulan",
-        "description": "A young woman disguises herself as a man to fight in the army.",
-        "releaseYear": 1998,
-        "isBlockbuster": true,
-        "releaseDate": "1998-06-19",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id5.jpg",
-        "genre": "Animation",
-        "keywords": ["warrior", "bravery", "disguise"],
-        "director": {
-          "id": 205,
-          "name": "Tony Bancroft",
-          "age": 53,
-          "isActive": true,
-          "birthDate": "1970-07-31",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id5.jpg",
-          "nationality": "American"
-        }
-      },
-      {
-        "id": 6,
-        "title": "Tangled",
-        "description": "Rapunzel escapes her tower with the help of a thief.",
-        "releaseYear": 2010,
-        "isBlockbuster": true,
-        "releaseDate": "2010-11-24",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id6.jpg",
-        "genre": "Animation",
-        "keywords": ["princess", "adventure", "tower"],
-        "director": {
-          "id": 206,
-          "name": "Nathan Greno",
-          "age": 48,
-          "isActive": true,
-          "birthDate": "1975-03-22",
-          "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id6.webp",
-          "nationality": "American"
-        }
-      },
-      {
-        "id": 7,
-        "title": "Hercules",
-        "description": "The son of Zeus is stripped of his immortality as an infant and must become a true hero to reclaim it.",
-        "releaseYear": 1997,
-        "isBlockbuster": true,
-        "releaseDate": "1997-06-27",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id7.jpg",
-        "genre": "Animation",
-        "keywords": ["hero", "gods", "strength"],
-        "director": {
-          "id": 203,
-          "name": "Ron Clements",
-          "age": 70,
-          "isActive": true,
-          "birthDate": "1953-04-25",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id3.jpg",
-          "nationality": "American"
-        }
-      },
-      {
-        "id": 8,
-        "title": "The Princess and the Frog",
-        "description": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human.",
-        "releaseYear": 2009,
-        "isBlockbuster": true,
-        "releaseDate": "2009-12-11",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id8.jpg",
-        "genre": "Animation",
-        "keywords": ["princess", "magic", "transformation"],
-        "director": {
-          "id": 208,
-          "name": "John Musker",
-          "age": 70,
-          "isActive": true,
-          "birthDate": "1953-11-08",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id8.jpg",
-          "nationality": "American"
-        }
-      },
-      {
-        "id": 9,
-        "title": "Wreck-It Ralph",
-        "description": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the arcade.",
-        "releaseYear": 2012,
-        "isBlockbuster": true,
-        "releaseDate": "2012-11-02",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id9.jpg",
-        "genre": "Animation",
-        "keywords": ["video game", "arcade", "hero"],
-        "director": {
-          "id": 209,
-          "name": "Rich Moore",
-          "age": 60,
-          "isActive": true,
-          "birthDate": "1963-05-10",
-          "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id9.jpg",
-          "nationality": "American"
-        }
-      },
-      {
-        "id": 10,
-        "title": "Big Hero 6",
-        "description": "A special bond develops between a boy and a plus-sized inflatable robot, as they team up to fight against evil.",
-        "releaseYear": 2014,
-        "isBlockbuster": true,
-        "releaseDate": "2014-11-07",
-        "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id10.jpg",
-        "genre": "Animation",
-        "keywords": ["robot", "teamwork", "superheroes"],
-        "director": {
-          "id": 210,
-          "name": "Don Hall",
-          "age": 54,
-          "isActive": true,
-          "birthDate": "1969-03-08",
-          "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id10.webp",
-          "nationality": "American"
-        }
-      }
-    ]
-
+  },
+  {
+    "id": 3,
+    "title": "The Incredibles",
+    "description": "A family of undercover superheroes must come out of retirement to save the world.",
+    "releaseYear": 2004,
+    "isBlockbuster": true,
+    "releaseDate": "2004-11-05",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id12.jpg",
+    "genre": "Action",
+    "keywords": ["superheroes", "family", "action"],
+    "director": {
+      "id": 203,
+      "name": "Brad Bird",
+      "age": 66,
+      "isActive": true,
+      "birthDate": "1957-09-24",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id12.jpg",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Beauty and the Beast",
+    "description": "A young woman falls in love with a cursed prince.",
+    "releaseYear": 1991,
+    "isBlockbuster": true,
+    "releaseDate": "1991-11-13",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id4.png",
+    "genre": "Animation",
+    "keywords": ["love", "fantasy", "castle"],
+    "director": {
+      "id": 204,
+      "name": "Gary Trousdale",
+      "age": 63,
+      "isActive": true,
+      "birthDate": "1960-06-08",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id4.jpg",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Mulan",
+    "description": "A young woman disguises herself as a man to fight in the army.",
+    "releaseYear": 1998,
+    "isBlockbuster": true,
+    "releaseDate": "1998-06-19",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id5.jpg",
+    "genre": "Animation",
+    "keywords": ["warrior", "bravery", "disguise"],
+    "director": {
+      "id": 205,
+      "name": "Tony Bancroft",
+      "age": 53,
+      "isActive": true,
+      "birthDate": "1970-07-31",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id5.jpg",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Tangled",
+    "description": "Rapunzel escapes her tower with the help of a thief.",
+    "releaseYear": 2010,
+    "isBlockbuster": true,
+    "releaseDate": "2010-11-24",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id6.jpg",
+    "genre": "Animation",
+    "keywords": ["princess", "adventure", "tower"],
+    "director": {
+      "id": 206,
+      "name": "Nathan Greno",
+      "age": 48,
+      "isActive": true,
+      "birthDate": "1975-03-22",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id6.webp",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Hercules",
+    "description": "The son of Zeus is stripped of his immortality as an infant and must become a true hero to reclaim it.",
+    "releaseYear": 1997,
+    "isBlockbuster": true,
+    "releaseDate": "1997-06-27",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id7.jpg",
+    "genre": "Animation",
+    "keywords": ["hero", "gods", "strength"],
+    "director": {
+      "id": 203,
+      "name": "Ron Clements",
+      "age": 70,
+      "isActive": true,
+      "birthDate": "1953-04-25",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id3.jpg",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 8,
+    "title": "The Princess and the Frog",
+    "description": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human.",
+    "releaseYear": 2009,
+    "isBlockbuster": true,
+    "releaseDate": "2009-12-11",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id8.jpg",
+    "genre": "Animation",
+    "keywords": ["princess", "magic", "transformation"],
+    "director": {
+      "id": 208,
+      "name": "John Musker",
+      "age": 70,
+      "isActive": true,
+      "birthDate": "1953-11-08",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id8.jpg",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Wreck-It Ralph",
+    "description": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the arcade.",
+    "releaseYear": 2012,
+    "isBlockbuster": true,
+    "releaseDate": "2012-11-02",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id9.jpg",
+    "genre": "Animation",
+    "keywords": ["video game", "arcade", "hero"],
+    "director": {
+      "id": 209,
+      "name": "Rich Moore",
+      "age": 60,
+      "isActive": true,
+      "birthDate": "1963-05-10",
+      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id9.jpg",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Big Hero 6",
+    "description": "A special bond develops between a boy and a plus-sized inflatable robot, as they team up to fight against evil.",
+    "releaseYear": 2014,
+    "isBlockbuster": true,
+    "releaseDate": "2014-11-07",
+    "posterUrl": "https://github.com/yaravvl/disney-json/blob/main/assets/films-id10.jpg",
+    "genre": "Animation",
+    "keywords": ["robot", "teamwork", "superheroes"],
+    "director": {
+      "id": 210,
+      "name": "Don Hall",
+      "age": 54,
+      "isActive": true,
+      "birthDate": "1969-03-08",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id10.webp",
+      "nationality": "American"
+    }
+  }
+]
