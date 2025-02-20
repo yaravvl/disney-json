@@ -130,12 +130,12 @@
     "genre": "Animation",
     "keywords": ["hero", "gods", "strength"],
     "director": {
-      "id": 203,
+      "id": 207,
       "name": "Ron Clements",
       "age": 70,
       "isActive": true,
       "birthDate": "1953-04-25",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id3.jpg",
+      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id7.webp",
       "nationality": "American"
     }
   },

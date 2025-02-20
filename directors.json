@@ -1,85 +1,92 @@
-
 [
-    {
-      "id": 201,
-      "name": "Roger Allers",
-      "age": 73,
-      "isActive": true,
-      "birthDate": "1950-06-29",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id1.jpg",
-      "nationality": "American"
-    },
-    {
-      "id": 202,
-      "name": "Jennifer Lee",
-      "age": 52,
-      "isActive": true,
-      "birthDate": "1971-10-22",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id2.jpeg",
-      "nationality": "American"
-    },
-    {
-      "id": 203,
-      "name": "Ron Clements",
-      "age": 70,
-      "isActive": true,
-      "birthDate": "1953-04-25",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id3.jpg",
-      "nationality": "American"
-    },
-    {
-      "id": 204,
-      "name": "Gary Trousdale",
-      "age": 63,
-      "isActive": true,
-      "birthDate": "1960-06-08",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id4.jpg",
-      "nationality": "American"
-    },
-    {
-      "id": 205,
-      "name": "Tony Bancroft",
-      "age": 53,
-      "isActive": true,
-      "birthDate": "1970-07-31",
-      "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id5.jpg",
-      "nationality": "American"
-    },
-    {
-      "id": 206,
-      "name": "Nathan Greno",
-      "age": 48,
-      "isActive": true,
-      "birthDate": "1975-03-22",
-      "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id6.webp",
-      "nationality": "American"
-    },
-    {
-        "id": 208,
-        "name": "John Musker",
-        "age": 70,
-        "isActive": true,
-        "birthDate": "1953-11-08",
-        "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id8.jpg",
-        "nationality": "American"
-      },
-      {
-        "id": 209,
-        "name": "Rich Moore",
-        "age": 60,
-        "isActive": true,
-        "birthDate": "1963-05-10",
-        "profileImage": "https://github.com/yaravvl/disney-json/blob/main/assets/director-id9.jpg",
-        "nationality": "American"
-      },
-      {
-        "id": 210,
-        "name": "Don Hall",
-        "age": 54,
-        "isActive": true,
-        "birthDate": "1969-03-08",
-        "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id10.webp",
-        "nationality": "American"
-      }
-  ]
-
+  {
+    "id": 201,
+    "name": "Roger Allers",
+    "age": 73,
+    "isActive": true,
+    "birthDate": "1950-06-29",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id1.jpg",
+    "nationality": "American"
+  },
+  {
+    "id": 202,
+    "name": "Gore Verbinski",
+    "age": 60,
+    "isActive": true,
+    "birthDate": "1953-03-16",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id2.JPG",
+    "nationality": "American"
+  },
+  {
+    "id": 203,
+    "name": "Brad Bird",
+    "age": 66,
+    "isActive": true,
+    "birthDate": "1957-09-24",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id3.jpg",
+    "nationality": "American"
+  },
+  {
+    "id": 204,
+    "name": "Gary Trousdale",
+    "age": 63,
+    "isActive": true,
+    "birthDate": "1960-06-08",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id4.jpg",
+    "nationality": "American"
+  },
+  {
+    "id": 205,
+    "name": "Tony Bancroft",
+    "age": 53,
+    "isActive": true,
+    "birthDate": "1970-07-31",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id5.jpg",
+    "nationality": "American"
+  },
+  {
+    "id": 206,
+    "name": "Nathan Greno",
+    "age": 48,
+    "isActive": true,
+    "birthDate": "1975-03-22",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id6.webp",
+    "nationality": "American"
+  },
+  {
+    "id": 203,
+    "name": "Ron Clements",
+    "age": 70,
+    "isActive": true,
+    "birthDate": "1953-04-25",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id7.webp",
+    "nationality": "American"
+  },
+  {
+    "id": 208,
+    "name": "John Musker",
+    "age": 70,
+    "isActive": true,
+    "birthDate": "1953-11-08",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id8.jpg",
+    "nationality": "American"
+  },
+  {
+    "id": 209,
+    "name": "Rich Moore",
+    "age": 60,
+    "isActive": true,
+    "birthDate": "1963-05-10",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/films-id9.jpg",
+    "nationality": "American"
+  },
+  {
+    "id": 210,
+    "name": "Don Hall",
+    "age": 54,
+    "isActive": true,
+    "birthDate": "1969-03-08",
+    "profileImage": "https://raw.githubusercontent.com/yaravvl/disney-json/refs/heads/main/assets/director-id10.webp",
+    "nationality": "American"
+  }
+]
